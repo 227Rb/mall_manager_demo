@@ -1,3 +1,10 @@
+.idea/
+
+##ignore this file##
+/target/ 
+*.yml
+
+
 # Compiled class file
 *.class
 
